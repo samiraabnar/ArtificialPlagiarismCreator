@@ -1,0 +1,9 @@
+<parameters>
+<index>index</index>
+<indexType>key</indexType>
+<countStopWords>false</countStopWords>
+<memory>512000000</memory>
+<docFormat>Arabic</docFormat>
+<dataFiles>paramfiles/data.txt</dataFiles>
+<stopwords>stops.txt</stopwords>
+</parameters>
